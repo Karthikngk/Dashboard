@@ -24,28 +24,8 @@ git clone https://github.com/Karthikngk/Dashboard.git
 Step 2 — Open Project
 cd Dashboard
 Step 3 — Start Backend First
-
-⚠️ Always start backend before frontend.
-
-Option 1 — Run Express Backend
-
-Open terminal inside project root folder.
-
-Install dependencies:
-
-npm install
-
-Start backend server:
-
-npm run server
-
-Backend runs on:
-
-http://localhost:8080
-Option 2 — Run Spring Boot Backend
-
-Open NEW terminal.
-
+Go to java backend-springboot folder 
+and run backend  
 Navigate to Spring Boot folder:
 
 cd backend-springboot
@@ -56,7 +36,12 @@ mvn spring-boot:run
 
 Spring Boot backend runs on:
 
+⚠️ Always start backend before frontend.
+
 http://localhost:8080
+
+Open NEW terminal.
+
 Step 4 — Start Frontend Application
 
 Open another NEW terminal.
