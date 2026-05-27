@@ -1,0 +1,650 @@
+[
+  {
+    "id": "mv00001",
+    "timestamp": "2026-04-20T02:30:28.883Z",
+    "sku": "SKU002",
+    "movementType": "IN",
+    "quantity": 155,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00002",
+    "timestamp": "2026-06-26T21:46:54.124Z",
+    "sku": "SKU005",
+    "movementType": "IN",
+    "quantity": 192,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00003",
+    "timestamp": "2026-02-28T14:03:52.936Z",
+    "sku": "SKU008",
+    "movementType": "OUT",
+    "quantity": 65,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00004",
+    "timestamp": "2026-10-13T20:31:35.352Z",
+    "sku": "SKU002",
+    "movementType": "OUT",
+    "quantity": 309,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00005",
+    "timestamp": "2026-06-18T02:52:05.696Z",
+    "sku": "SKU007",
+    "movementType": "IN",
+    "quantity": 99,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00006",
+    "timestamp": "2026-08-23T07:59:34.632Z",
+    "sku": "SKU008",
+    "movementType": "IN",
+    "quantity": 131,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00007",
+    "timestamp": "2026-02-07T19:28:31.052Z",
+    "sku": "SKU005",
+    "movementType": "IN",
+    "quantity": 266,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00008",
+    "timestamp": "2026-03-11T22:40:56.787Z",
+    "sku": "SKU003",
+    "movementType": "OUT",
+    "quantity": 214,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00009",
+    "timestamp": "2026-12-01T06:43:32.619Z",
+    "sku": "SKU007",
+    "movementType": "IN",
+    "quantity": 216,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00010",
+    "timestamp": "2026-01-17T08:01:46.915Z",
+    "sku": "SKU006",
+    "movementType": "IN",
+    "quantity": 164,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00011",
+    "timestamp": "2026-12-18T03:17:13.660Z",
+    "sku": "SKU006",
+    "movementType": "OUT",
+    "quantity": 194,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00012",
+    "timestamp": "2026-02-04T18:01:38.133Z",
+    "sku": "SKU005",
+    "movementType": "IN",
+    "quantity": 417,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00013",
+    "timestamp": "2026-12-06T09:48:10.742Z",
+    "sku": "SKU002",
+    "movementType": "IN",
+    "quantity": 423,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00014",
+    "timestamp": "2026-08-30T14:08:27.923Z",
+    "sku": "SKU002",
+    "movementType": "OUT",
+    "quantity": 3,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00015",
+    "timestamp": "2026-09-03T13:08:53.780Z",
+    "sku": "SKU001",
+    "movementType": "IN",
+    "quantity": 66,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00016",
+    "timestamp": "2026-11-14T01:49:27.942Z",
+    "sku": "SKU001",
+    "movementType": "IN",
+    "quantity": 474,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00017",
+    "timestamp": "2026-02-19T14:20:08.300Z",
+    "sku": "SKU007",
+    "movementType": "OUT",
+    "quantity": 124,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00018",
+    "timestamp": "2026-12-10T06:28:18.615Z",
+    "sku": "SKU004",
+    "movementType": "OUT",
+    "quantity": 423,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00019",
+    "timestamp": "2026-04-21T11:25:18.692Z",
+    "sku": "SKU001",
+    "movementType": "IN",
+    "quantity": 492,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00020",
+    "timestamp": "2026-05-09T17:07:57.349Z",
+    "sku": "SKU001",
+    "movementType": "IN",
+    "quantity": 411,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00021",
+    "timestamp": "2026-05-27T06:30:30.233Z",
+    "sku": "SKU008",
+    "movementType": "IN",
+    "quantity": 32,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00022",
+    "timestamp": "2026-12-03T22:07:14.933Z",
+    "sku": "SKU007",
+    "movementType": "OUT",
+    "quantity": 314,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00023",
+    "timestamp": "2026-10-02T01:26:07.930Z",
+    "sku": "SKU006",
+    "movementType": "OUT",
+    "quantity": 467,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00024",
+    "timestamp": "2026-01-20T19:02:22.400Z",
+    "sku": "SKU002",
+    "movementType": "OUT",
+    "quantity": 17,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00025",
+    "timestamp": "2026-02-01T05:20:51.769Z",
+    "sku": "SKU001",
+    "movementType": "IN",
+    "quantity": 237,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00026",
+    "timestamp": "2026-05-13T18:22:23.673Z",
+    "sku": "SKU008",
+    "movementType": "OUT",
+    "quantity": 71,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00027",
+    "timestamp": "2026-02-18T07:45:29.043Z",
+    "sku": "SKU008",
+    "movementType": "IN",
+    "quantity": 472,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00028",
+    "timestamp": "2026-06-29T15:42:18.098Z",
+    "sku": "SKU002",
+    "movementType": "OUT",
+    "quantity": 158,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00029",
+    "timestamp": "2026-06-07T00:18:45.481Z",
+    "sku": "SKU004",
+    "movementType": "OUT",
+    "quantity": 354,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00030",
+    "timestamp": "2026-09-22T04:06:30.668Z",
+    "sku": "SKU002",
+    "movementType": "OUT",
+    "quantity": 497,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00031",
+    "timestamp": "2026-01-11T14:09:11.500Z",
+    "sku": "SKU002",
+    "movementType": "IN",
+    "quantity": 367,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00032",
+    "timestamp": "2026-06-17T16:37:38.228Z",
+    "sku": "SKU003",
+    "movementType": "OUT",
+    "quantity": 146,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00033",
+    "timestamp": "2026-04-18T08:37:17.357Z",
+    "sku": "SKU003",
+    "movementType": "OUT",
+    "quantity": 151,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00034",
+    "timestamp": "2026-04-10T13:17:55.078Z",
+    "sku": "SKU004",
+    "movementType": "OUT",
+    "quantity": 216,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00035",
+    "timestamp": "2026-05-10T12:45:06.563Z",
+    "sku": "SKU002",
+    "movementType": "IN",
+    "quantity": 394,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00036",
+    "timestamp": "2026-11-25T04:37:35.367Z",
+    "sku": "SKU001",
+    "movementType": "IN",
+    "quantity": 431,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00037",
+    "timestamp": "2026-09-11T10:09:27.693Z",
+    "sku": "SKU001",
+    "movementType": "IN",
+    "quantity": 63,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00038",
+    "timestamp": "2026-01-27T00:10:40.787Z",
+    "sku": "SKU002",
+    "movementType": "IN",
+    "quantity": 345,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00039",
+    "timestamp": "2026-01-22T12:17:49.436Z",
+    "sku": "SKU003",
+    "movementType": "IN",
+    "quantity": 310,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00040",
+    "timestamp": "2026-05-30T19:12:45.384Z",
+    "sku": "SKU008",
+    "movementType": "OUT",
+    "quantity": 344,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00041",
+    "timestamp": "2026-08-14T16:58:28.754Z",
+    "sku": "SKU004",
+    "movementType": "OUT",
+    "quantity": 498,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00042",
+    "timestamp": "2026-07-10T02:43:02.707Z",
+    "sku": "SKU007",
+    "movementType": "OUT",
+    "quantity": 61,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00043",
+    "timestamp": "2026-01-27T19:08:10.787Z",
+    "sku": "SKU003",
+    "movementType": "OUT",
+    "quantity": 437,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00044",
+    "timestamp": "2026-04-08T06:43:48.381Z",
+    "sku": "SKU003",
+    "movementType": "OUT",
+    "quantity": 471,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00045",
+    "timestamp": "2026-10-20T04:42:17.135Z",
+    "sku": "SKU008",
+    "movementType": "IN",
+    "quantity": 316,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00046",
+    "timestamp": "2026-12-27T14:09:59.630Z",
+    "sku": "SKU008",
+    "movementType": "IN",
+    "quantity": 155,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00047",
+    "timestamp": "2026-10-22T04:02:39.520Z",
+    "sku": "SKU004",
+    "movementType": "OUT",
+    "quantity": 286,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00048",
+    "timestamp": "2026-01-19T05:01:48.542Z",
+    "sku": "SKU008",
+    "movementType": "OUT",
+    "quantity": 421,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00049",
+    "timestamp": "2026-07-18T01:34:39.124Z",
+    "sku": "SKU006",
+    "movementType": "IN",
+    "quantity": 383,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00050",
+    "timestamp": "2026-10-29T13:31:23.038Z",
+    "sku": "SKU007",
+    "movementType": "IN",
+    "quantity": 464,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00051",
+    "timestamp": "2026-07-16T01:45:02.052Z",
+    "sku": "SKU001",
+    "movementType": "IN",
+    "quantity": 168,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00052",
+    "timestamp": "2026-12-24T19:36:48.630Z",
+    "sku": "SKU003",
+    "movementType": "IN",
+    "quantity": 439,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00053",
+    "timestamp": "2026-01-15T00:40:50.661Z",
+    "sku": "SKU006",
+    "movementType": "OUT",
+    "quantity": 36,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00054",
+    "timestamp": "2026-09-04T18:31:01.057Z",
+    "sku": "SKU003",
+    "movementType": "OUT",
+    "quantity": 24,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00055",
+    "timestamp": "2026-04-16T06:39:18.878Z",
+    "sku": "SKU005",
+    "movementType": "IN",
+    "quantity": 420,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00056",
+    "timestamp": "2026-08-24T06:49:12.317Z",
+    "sku": "SKU006",
+    "movementType": "IN",
+    "quantity": 303,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00057",
+    "timestamp": "2026-11-20T06:59:56.368Z",
+    "sku": "SKU006",
+    "movementType": "OUT",
+    "quantity": 118,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00058",
+    "timestamp": "2026-07-16T21:49:55.091Z",
+    "sku": "SKU008",
+    "movementType": "IN",
+    "quantity": 409,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00059",
+    "timestamp": "2026-02-23T16:18:16.280Z",
+    "sku": "SKU006",
+    "movementType": "IN",
+    "quantity": 307,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00060",
+    "timestamp": "2026-11-07T05:34:16.561Z",
+    "sku": "SKU001",
+    "movementType": "OUT",
+    "quantity": 56,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00061",
+    "timestamp": "2026-04-15T10:45:02.554Z",
+    "sku": "SKU005",
+    "movementType": "OUT",
+    "quantity": 471,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00062",
+    "timestamp": "2026-02-15T17:17:25.821Z",
+    "sku": "SKU003",
+    "movementType": "OUT",
+    "quantity": 458,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00063",
+    "timestamp": "2026-06-18T10:34:21.131Z",
+    "sku": "SKU002",
+    "movementType": "IN",
+    "quantity": 302,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00064",
+    "timestamp": "2026-10-23T23:04:08.008Z",
+    "sku": "SKU002",
+    "movementType": "OUT",
+    "quantity": 24,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00065",
+    "timestamp": "2026-08-20T12:20:42.442Z",
+    "sku": "SKU004",
+    "movementType": "IN",
+    "quantity": 262,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00066",
+    "timestamp": "2026-08-29T15:50:30.199Z",
+    "sku": "SKU003",
+    "movementType": "IN",
+    "quantity": 93,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00067",
+    "timestamp": "2026-06-28T21:13:09.547Z",
+    "sku": "SKU002",
+    "movementType": "IN",
+    "quantity": 113,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00068",
+    "timestamp": "2026-09-25T22:35:10.353Z",
+    "sku": "SKU003",
+    "movementType": "IN",
+    "quantity": 63,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00069",
+    "timestamp": "2026-03-18T14:40:56.351Z",
+    "sku": "SKU006",
+    "movementType": "OUT",
+    "quantity": 11,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00070",
+    "timestamp": "2026-05-14T02:29:07.744Z",
+    "sku": "SKU001",
+    "movementType": "IN",
+    "quantity": 91,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00071",
+    "timestamp": "2026-05-29T16:41:24.499Z",
+    "sku": "SKU003",
+    "movementType": "IN",
+    "quantity": 37,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00072",
+    "timestamp": "2026-07-30T10:07:05.510Z",
+    "sku": "SKU001",
+    "movementType": "OUT",
+    "quantity": 455,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00073",
+    "timestamp": "2026-09-05T23:54:47.849Z",
+    "sku": "SKU003",
+    "movementType": "IN",
+    "quantity": 366,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00074",
+    "timestamp": "2026-10-29T10:19:11.471Z",
+    "sku": "SKU002",
+    "movementType": "OUT",
+    "quantity": 73,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00075",
+    "timestamp": "2026-10-09T20:17:32.675Z",
+    "sku": "SKU002",
+    "movementType": "OUT",
+    "quantity": 404,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00076",
+    "timestamp": "2026-03-31T07:23:53.701Z",
+    "sku": "SKU003",
+    "movementType": "OUT",
+    "quantity": 436,
+    "warehouse": "WH-WEST"
+  },
+  {
+    "id": "mv00077",
+    "timestamp": "2026-07-23T04:35:09.100Z",
+    "sku": "SKU001",
+    "movementType": "OUT",
+    "quantity": 365,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00078",
+    "timestamp": "2026-02-10T08:20:01.776Z",
+    "sku": "SKU008",
+    "movementType": "OUT",
+    "quantity": 87,
+    "warehouse": "WH-SOUTH"
+  },
+  {
+    "id": "mv00079",
+    "timestamp": "2026-09-24T06:10:40.353Z",
+    "sku": "SKU003",
+    "movementType": "IN",
+    "quantity": 107,
+    "warehouse": "WH-NORTH"
+  },
+  {
+    "id": "mv00080",
+    "timestamp": "2026-11-06T04:43:27.393Z",
+    "sku": "SKU004",
+    "movementType": "IN",
+    "quantity": 267,
+    "warehouse": "WH-EAST"
+  },
+  {
+    "id": "mv00100",
+    "timestamp": "2026-01-18T21:45:04.720Z",
+    "sku": "SKU004",
+    "movementType": "IN",
+    "quantity": 139,
+    "warehouse": "WH-EAST"
+  }
+]

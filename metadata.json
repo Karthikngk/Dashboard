@@ -1,0 +1,6 @@
+{
+  "name": "Inventory Movement Dashboard",
+  "description": "Visualize and validate stock movement logs with SHA hashed JSON uploads, time-series charts, and warehouse filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
